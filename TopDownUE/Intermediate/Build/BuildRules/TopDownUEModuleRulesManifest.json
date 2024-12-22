@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\stixo\\Documents\\Unreal Projects\\TopDownUE\\Intermediate\\Source\\TopDownUE.Build.cs",
+		"C:\\Users\\stixo\\Documents\\Unreal Projects\\TopDownUE\\Intermediate\\Source\\TopDownUE.Target.cs",
+		"C:\\Users\\stixo\\Documents\\Unreal Projects\\TopDownUE\\Intermediate\\Source\\TopDownUEClient.Target.cs",
+		"C:\\Users\\stixo\\Documents\\Unreal Projects\\TopDownUE\\Intermediate\\Source\\TopDownUEEditor.Target.cs",
+		"C:\\Users\\stixo\\Documents\\Unreal Projects\\TopDownUE\\Intermediate\\Source\\TopDownUEServer.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}

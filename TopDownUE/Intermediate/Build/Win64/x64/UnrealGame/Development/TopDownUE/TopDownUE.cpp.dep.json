@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\stixo\\documents\\unreal projects\\topdownue\\intermediate\\source\\topdownue.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\stixo\\documents\\unreal projects\\topdownue\\intermediate\\build\\win64\\x64\\topdownue\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\stixo\\documents\\unreal projects\\topdownue\\intermediate\\build\\win64\\x64\\unrealgame\\development\\topdownue\\definitions.topdownue.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
