@@ -9390,3 +9390,186 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.27-07.42.29:820][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.27-07.42.29:820][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.27-07.42.29:820][825]AssetCheck: /Game/Characters/Mannequins/Animations/A_Attack_PrimaryC_Montage Validating asset
+[2024.12.27-08.24.48:684][515]LogDerivedDataCache: C:/Users/stixo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.27-09.24.48:685][314]LogDerivedDataCache: C:/Users/stixo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.27-10.24.48:685][112]LogDerivedDataCache: C:/Users/stixo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.27-11.06.57:298][933]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.27-11.06.57:308][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.27-11.06.57:308][933]LogPlayLevel: Creating play world package: /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo
+[2024.12.27-11.06.57:467][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159338s)
+[2024.12.27-11.06.57:467][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Stylized_Egypt/Maps/Stylized_Egypt_Demo.Stylized_Egypt_Demo to /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo.Stylized_Egypt_Demo (0.159389s)
+[2024.12.27-11.06.57:495][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.12.27-11.06.57:501][933]LogChaosDD: Creating Chaos Debug Draw Scene for world Stylized_Egypt_Demo
+[2024.12.27-11.06.57:503][933]LogPlayLevel: PIE: World Init took: (0.002680s)
+[2024.12.27-11.06.57:504][933]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.12.27-11.06.57:504][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.27-11.06.57:504][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.27-11.06.57:504][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.27-11.06.57:504][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.27-11.06.57:504][933]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.27-11.06.57:504][933]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.27-11.06.57:504][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.27-11.06.57:504][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.27-11.06.57:504][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.27-11.06.57:504][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.27-11.06.57:504][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.27-11.06.57:508][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.27-11.06.57:525][933]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.27-11.06.57:525][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.27-11.06.57:525][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.27-11.06.57:525][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.27-11.06.57:526][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.12.27-11.06.57:526][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.12.27-11.06.57:528][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.12.27-11.06.57:528][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.12.27-11.06.57:528][933]LogInit: FAudioDevice initialized with ID 19.
+[2024.12.27-11.06.57:528][933]LogAudio: Display: Audio Device (ID: 19) registered with world 'Stylized_Egypt_Demo'.
+[2024.12.27-11.06.57:528][933]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.27-11.06.57:531][933]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.27-11.06.57:593][933]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.27-11.06.57:596][933]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.27-11.06.57:599][933]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.27-11.06.57:602][933]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.27-11.06.57:639][933]LogWorld: Bringing World /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo.Stylized_Egypt_Demo up for play (max tick rate 60) at 2024.12.27-16.06.57
+[2024.12.27-11.06.57:642][933]LogWorld: Bringing up level for play took: 0.109459
+[2024.12.27-11.06.57:645][933]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.12.27-11.06.57:656][933]PIE: Server logged in
+[2024.12.27-11.06.57:657][933]PIE: Play in editor total start time 0.35 seconds.
+[2024.12.27-11.06.59:109][ 13]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.06.59:126][ 14]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.06.59:142][ 15]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.00:442][ 93]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.00:459][ 94]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.00:475][ 95]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.01:492][156]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.01:509][157]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.01:525][158]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.02:177][197]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.02:475][215]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.02:491][216]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.02:509][217]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.05:161][376]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.05:177][377]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.05:194][378]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.06:144][435]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.06:160][436]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.06:178][437]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.06:994][486]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.07:010][487]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.07:028][488]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.11:163][736]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.11:179][737]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.11:195][738]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.11:997][786]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.12:145][795]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.12:161][796]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.12:798][834]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.12:812][835]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.12:929][842]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.13:481][875]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.13:613][883]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.13:628][884]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.14:197][918]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.14:329][926]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.14:345][927]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.14:862][958]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.14:879][959]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.14:896][960]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] StopAttacking
+[2024.12.27-11.07.22:042][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.27-11.07.22:042][387]LogWorld: BeginTearingDown for /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo
+[2024.12.27-11.07.22:044][387]LogWorld: UWorld::CleanupWorld for Stylized_Egypt_Demo, bSessionEnded=true, bCleanupResources=true
+[2024.12.27-11.07.22:067][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.27-11.07.22:075][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.27-11.07.22:085][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.27-11.07.22:113][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.27-11.07.22:113][387]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.27-11.07.22:113][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.27-11.07.22:115][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.27-11.07.22:122][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.27-11.07.22:142][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.27-11.07.22:273][388]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.12.27-11.08.00:553][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.27-11.08.00:591][623]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.27-11.08.00:601][623]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.27-11.08.00:601][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.27-11.08.00:636][623]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.27-11.08.00:637][623]LogSavePackage: Moving '../../../../../../Users/stixo/Documents/Unreal Projects/Combat-Game-UE/TopDownUE/Saved/BP_ThirdPersonCharacter12ED2E7940BABC2CD65120833AA8D6FF.tmp' to '../../../../../../Users/stixo/Documents/Unreal Projects/Combat-Game-UE/TopDownUE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.27-11.08.00:649][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.262 ms (total: 8.03 sec)
+[2024.12.27-11.08.00:709][623]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.27-11.08.00:709][623]LogContentValidation: Enabled validators:
+[2024.12.27-11.08.00:709][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.27-11.08.00:709][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.27-11.08.00:709][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.27-11.08.00:709][623]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.27-11.08.00:709][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.27-11.08.00:709][623]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.27-11.08.00:709][623]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.27-11.08.01:592][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.12.27-11.10.14:681][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.27-11.10.14:741][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.27-11.10.14:748][432]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.27-11.10.14:748][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.27-11.10.14:786][432]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.27-11.10.14:787][432]LogSavePackage: Moving '../../../../../../Users/stixo/Documents/Unreal Projects/Combat-Game-UE/TopDownUE/Saved/BP_ThirdPersonCharacterF8CFB27B40859438EFDCD89A33758279.tmp' to '../../../../../../Users/stixo/Documents/Unreal Projects/Combat-Game-UE/TopDownUE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.27-11.10.14:801][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.904 ms (total: 8.15 sec)
+[2024.12.27-11.10.14:859][432]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.27-11.10.14:859][432]LogContentValidation: Enabled validators:
+[2024.12.27-11.10.14:859][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.27-11.10.14:859][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.27-11.10.14:859][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.27-11.10.14:859][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.27-11.10.14:859][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.27-11.10.14:859][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.27-11.10.14:859][432]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.27-11.10.15:909][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.27-11.10.16:766][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.27-11.10.16:825][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.27-11.10.16:833][508]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.27-11.10.16:833][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.27-11.10.16:868][508]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.27-11.10.16:869][508]LogSavePackage: Moving '../../../../../../Users/stixo/Documents/Unreal Projects/Combat-Game-UE/TopDownUE/Saved/BP_ThirdPersonCharacterA70E006245799C17BFEFE8961050E51A.tmp' to '../../../../../../Users/stixo/Documents/Unreal Projects/Combat-Game-UE/TopDownUE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.27-11.10.16:881][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.745 ms (total: 8.27 sec)
+[2024.12.27-11.10.16:942][508]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.27-11.10.16:942][508]LogContentValidation: Enabled validators:
+[2024.12.27-11.10.16:942][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.27-11.10.16:942][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.27-11.10.16:942][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.27-11.10.16:942][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.27-11.10.16:942][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.27-11.10.16:942][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.27-11.10.16:942][508]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.27-11.10.29:797][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.27-11.10.29:859][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.27-11.10.29:866][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.27-11.10.29:866][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.27-11.10.29:902][256]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.27-11.10.29:903][256]LogSavePackage: Moving '../../../../../../Users/stixo/Documents/Unreal Projects/Combat-Game-UE/TopDownUE/Saved/BP_ThirdPersonCharacter9186340A403940CFD7513CAB8C26B876.tmp' to '../../../../../../Users/stixo/Documents/Unreal Projects/Combat-Game-UE/TopDownUE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.27-11.10.29:919][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.152 ms (total: 8.39 sec)
+[2024.12.27-11.10.29:975][256]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.27-11.10.29:975][256]LogContentValidation: Enabled validators:
+[2024.12.27-11.10.29:975][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.27-11.10.29:975][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.27-11.10.29:975][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.27-11.10.29:975][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.27-11.10.29:975][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.27-11.10.29:976][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.27-11.10.29:976][256]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.27-11.10.30:651][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.12.27-11.10.31:262][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.27-11.10.31:327][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.27-11.10.31:336][295]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.27-11.10.31:336][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.27-11.10.31:371][295]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.27-11.10.31:372][295]LogSavePackage: Moving '../../../../../../Users/stixo/Documents/Unreal Projects/Combat-Game-UE/TopDownUE/Saved/BP_ThirdPersonCharacterBBDA49A94CFB4009A14228A52813014E.tmp' to '../../../../../../Users/stixo/Documents/Unreal Projects/Combat-Game-UE/TopDownUE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.27-11.10.31:386][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.056 ms (total: 8.51 sec)
+[2024.12.27-11.10.31:440][295]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.27-11.10.31:440][295]LogContentValidation: Enabled validators:
+[2024.12.27-11.10.31:440][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.27-11.10.31:440][295]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.27-11.10.31:440][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.27-11.10.31:440][295]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.27-11.10.31:440][295]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.27-11.10.31:440][295]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.27-11.10.31:440][295]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.27-11.12.37:423][498]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2024.12.27-11.12.37:480][500]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
