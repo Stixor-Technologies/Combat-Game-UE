@@ -1,6 +1,5 @@
 ## Unreal Engine ##
 ## Auto detect text files and perform LF normalization ##
-
 * text=auto
 # UE file types
 *.uasset filter=lfs diff=lfs merge=lfs -text
@@ -20,7 +19,7 @@
 *.[pP][nN][gG] filter=lfs diff=lfs merge=lfs -text
 *.[bB][mM][pP] filter=lfs diff=lfs merge=lfs -text
 # Can also be used:
-*.[fF][lL[oO][aA][tT] filter=lfs diff=lfs merge=lfs -text
+*.[fF][lL][oO][aA][tT] filter=lfs diff=lfs merge=lfs -text
 *.[jJ][pP][eE][gG] filter=lfs diff=lfs merge=lfs -text
 *.[jJ][pP][gG] filter=lfs diff=lfs merge=lfs -text
 *.[pP][cC][xX] filter=lfs diff=lfs merge=lfs -text
@@ -47,7 +46,7 @@
 *.[fF][lL][aA][cC] filter=lfs diff=lfs merge=lfs -text
 # Not recommended to use, but supported:
 *.[mM][pP]3 filter=lfs diff=lfs merge=lfs -text
-* [wW][mM][aA] filter=lfs diff=lfs merge=lfs -text
+*.[wW][mM][aA] filter=lfs diff=lfs merge=lfs -text
 *.[aA][cC]3 filter=lfs diff=lfs merge=lfs -text
 *.[aA][mM][rR] filter=lfs diff=lfs merge=lfs -text
 *.[aA][iI][fF] filter=lfs diff=lfs merge=lfs -text
@@ -61,7 +60,6 @@
 # Always recommended to use, supports all platforms:
 # For the best compatibility and performance, it is recommended to use H.264 encoded MP4 (.mp4) container files.
 *.[mM][pP]4 filter=lfs diff=lfs merge=lfs -text
-Can also be used, only some platforms are supported:
 *.3[gG]2 filter=lfs diff=lfs merge=lfs -text
 *.3[gG][pP] filter=lfs diff=lfs merge=lfs -text
 *.3[gG][pP]2 filter=lfs diff=lfs merge=lfs -text

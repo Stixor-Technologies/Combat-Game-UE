@@ -2934,3 +2934,124 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.31-06.38.57:950][530]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.31-06.38.57:950][530]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.31-06.38.57:950][530]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.31-07.10.04:350][ 57]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.12.31-07.10.04:593][ 57]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2024.12.31-07.10.04:593][ 57]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=1152
+[2024.12.31-07.10.05:467][ 60]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2024.12.31-07.10.05:476][ 60]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f483a895-ea96-4901-b53a-f7d89c808852}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=573.40
+[2024.12.31-07.10.05:476][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.12.31-07.10.05:480][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.12.31-07.11.57:858][398]LogDerivedDataCache: C:/Users/stixo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.31-07.21.40:137][902]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.31-07.21.40:146][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.31-07.21.40:169][902]LogPlayLevel: Creating play world package: /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo
+[2024.12.31-07.21.40:338][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169229s)
+[2024.12.31-07.21.40:338][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Stylized_Egypt/Maps/Stylized_Egypt_Demo.Stylized_Egypt_Demo to /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo.Stylized_Egypt_Demo (0.169288s)
+[2024.12.31-07.21.40:359][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.12.31-07.21.40:361][902]LogChaosDD: Creating Chaos Debug Draw Scene for world Stylized_Egypt_Demo
+[2024.12.31-07.21.40:363][902]LogPlayLevel: PIE: World Init took: (0.002260s)
+[2024.12.31-07.21.40:364][902]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.12.31-07.21.40:364][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.31-07.21.40:364][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.31-07.21.40:364][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.31-07.21.40:364][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.31-07.21.40:364][902]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.31-07.21.40:364][902]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.31-07.21.40:364][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.31-07.21.40:364][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.31-07.21.40:365][902]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.31-07.21.40:365][902]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.31-07.21.40:365][902]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.31-07.21.40:368][902]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.31-07.21.40:383][902]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.31-07.21.40:384][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.31-07.21.40:384][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.31-07.21.40:384][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.31-07.21.40:384][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.12.31-07.21.40:384][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.12.31-07.21.40:387][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.12.31-07.21.40:387][902]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.12.31-07.21.40:387][902]LogInit: FAudioDevice initialized with ID 9.
+[2024.12.31-07.21.40:387][902]LogAudio: Display: Audio Device (ID: 9) registered with world 'Stylized_Egypt_Demo'.
+[2024.12.31-07.21.40:387][902]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.31-07.21.40:391][902]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.31-07.21.40:448][902]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.31-07.21.40:452][902]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.31-07.21.40:454][902]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.31-07.21.40:456][902]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.31-07.21.40:494][902]LogWorld: Bringing World /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo.Stylized_Egypt_Demo up for play (max tick rate 0) at 2024.12.31-12.21.40
+[2024.12.31-07.21.40:497][902]LogWorld: Bringing up level for play took: 0.106491
+[2024.12.31-07.21.40:499][902]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.12.31-07.21.40:508][902]PIE: Server logged in
+[2024.12.31-07.21.40:511][902]PIE: Play in editor total start time 0.364 seconds.
+[2024.12.31-07.21.43:759][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.31-07.21.43:759][236]LogWorld: BeginTearingDown for /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo
+[2024.12.31-07.21.43:761][236]LogWorld: UWorld::CleanupWorld for Stylized_Egypt_Demo, bSessionEnded=true, bCleanupResources=true
+[2024.12.31-07.21.43:783][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.31-07.21.43:789][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.31-07.21.43:796][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.31-07.21.43:821][236]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.31-07.21.43:821][236]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.31-07.21.43:821][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.31-07.21.43:822][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.31-07.21.43:826][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.31-07.21.43:851][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.12.31-07.21.43:931][237]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.12.31-07.21.47:688][675]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.31-07.21.47:696][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.31-07.21.47:728][675]LogPlayLevel: Creating play world package: /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo
+[2024.12.31-07.21.47:897][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.168121s)
+[2024.12.31-07.21.47:897][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Stylized_Egypt/Maps/Stylized_Egypt_Demo.Stylized_Egypt_Demo to /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo.Stylized_Egypt_Demo (0.168170s)
+[2024.12.31-07.21.47:920][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.12.31-07.21.47:921][675]LogChaosDD: Creating Chaos Debug Draw Scene for world Stylized_Egypt_Demo
+[2024.12.31-07.21.47:924][675]LogPlayLevel: PIE: World Init took: (0.002297s)
+[2024.12.31-07.21.47:925][675]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.12.31-07.21.47:925][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.31-07.21.47:925][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.31-07.21.47:925][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.31-07.21.47:925][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.31-07.21.47:925][675]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.31-07.21.47:925][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.31-07.21.47:925][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.31-07.21.47:925][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.31-07.21.47:925][675]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.31-07.21.47:925][675]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.31-07.21.47:925][675]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.31-07.21.47:927][675]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.31-07.21.47:940][675]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.31-07.21.47:941][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.31-07.21.47:941][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.31-07.21.47:941][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.31-07.21.47:941][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.12.31-07.21.47:941][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.12.31-07.21.47:943][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.12.31-07.21.47:943][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.12.31-07.21.47:943][675]LogInit: FAudioDevice initialized with ID 10.
+[2024.12.31-07.21.47:943][675]LogAudio: Display: Audio Device (ID: 10) registered with world 'Stylized_Egypt_Demo'.
+[2024.12.31-07.21.47:943][675]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.31-07.21.47:946][675]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.31-07.21.48:004][675]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.31-07.21.48:006][675]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.31-07.21.48:009][675]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.31-07.21.48:011][675]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Greystone_Novaborn'
+[2024.12.31-07.21.48:046][675]LogWorld: Bringing World /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo.Stylized_Egypt_Demo up for play (max tick rate 0) at 2024.12.31-12.21.48
+[2024.12.31-07.21.48:048][675]LogWorld: Bringing up level for play took: 0.101890
+[2024.12.31-07.21.48:051][675]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.12.31-07.21.48:060][675]PIE: Server logged in
+[2024.12.31-07.21.48:061][675]PIE: Play in editor total start time 0.365 seconds.
+[2024.12.31-07.23.00:309][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.31-07.23.00:309][847]LogWorld: BeginTearingDown for /Game/Stylized_Egypt/Maps/UEDPIE_0_Stylized_Egypt_Demo
+[2024.12.31-07.23.00:311][847]LogWorld: UWorld::CleanupWorld for Stylized_Egypt_Demo, bSessionEnded=true, bCleanupResources=true
+[2024.12.31-07.23.00:333][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.31-07.23.00:338][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.31-07.23.00:346][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.31-07.23.00:369][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.31-07.23.00:377][847]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.31-07.23.00:377][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.31-07.23.00:379][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.31-07.23.00:401][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.12.31-07.23.00:469][848]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.12.31-07.23.15:619][247]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2024.12.31-08.11.57:859][253]LogDerivedDataCache: C:/Users/stixo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.31-09.11.57:859][ 51]LogDerivedDataCache: C:/Users/stixo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.31-10.11.58:441][850]LogDerivedDataCache: C:/Users/stixo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
