@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TopDownUE.cpp.obj": [
+			"TopDownUE.cpp.obj"
+		]
+	}
+}
